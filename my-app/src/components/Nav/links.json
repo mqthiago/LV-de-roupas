@@ -1,0 +1,20 @@
+{
+    "links": [
+        {
+            "label": "Masculino",
+            "href": "/masculino"
+        },
+        {
+            "label": "Feminino",
+            "href": "/feminino"
+        },
+        {
+            "label": "Infantil",
+            "href": "/infantil"
+        },
+        {
+            "label": "Novidades",
+            "href": "/novidades"
+        }
+    ]
+}
